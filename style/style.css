@@ -206,7 +206,7 @@ p {
 /* End Header section */
 /* start home section */
 #Home {
-  background-image: url(./images/pexels-karolina-grabowska-4195502.jpg);
+  background-image: url(/images/pexels-karolina-grabowska-4195502.jpg);
   background-size: cover;
   background-position: top center;
   position: relative;
